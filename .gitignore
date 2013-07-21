@@ -1,0 +1,6 @@
+bin
+*.java
+*._trace
+bin
+xtend-gen
+target
